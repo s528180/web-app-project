@@ -42,7 +42,7 @@ li a:hover:not(.active) {
     -moz-border-radius: 100px;
     -webkit-border-radius: 100px;
     border-radius: 100px;
-    background-image: url("C:/44563/W01/profile.jpg");
+    background-image: url("profile.jpg");
     background-size: cover;
     position: absolute;
     left: 40%;
@@ -67,7 +67,7 @@ p {
 }
 
 body {
-	background-image: url("C:/Users/s528180/Documents/planks.jpg");
+	background-image: url("planks.jpg");
 	overflow: auto;
 	margin: 0 0 100px;
 }
@@ -194,4 +194,17 @@ h2 {
 	top: 25%;
 	position: absolute;
 
+}
+
+#web_links {
+
+	margin-left: 500px;
+	position: absolute;
+	top: 130%;
+}
+
+.web{
+	width: 100px; 
+	height:100px;
+	border-radius: 30px;
 }
